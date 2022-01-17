@@ -1,4 +1,4 @@
-﻿codigo_item;codigo_categoria;codigo_subsetor;codigo_setor;regulacao;comb_fossil;item;categoria;subsetor;setor
+﻿codigo;codigo_categoria;codigo_subsetor;codigo_setor;regulacao;comb_fossil;item;categoria;subsetor;setor
 2202003;2202;22;2;1;0;Energia elétrica residencial;Energia elétrica residencial;Combustíveis e energia;Habitação
 2101004;2101;21;2;0;0;Taxa de água e esgoto;Aluguel e taxas;Encargos e manutenção;Habitação
 2201004;2201;22;2;1;1;Gás de botijão;Combustíveis (domésticos);Combustíveis e energia;Habitação
